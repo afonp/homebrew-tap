@@ -5,7 +5,7 @@ class Forge < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/afonp/forge/releases/download/v0.1.2/forge-x86_64-apple-darwin.tar.gz"
+      url "https://github.com/afonp/forge/releases/download/v0.1.3/forge-x86_64-apple-darwin.tar.gz"
     end
     on_intel do
       url "https://github.com/afonp/forge/releases/download/v0.1.1/forge-x86_64-apple-darwin.tar.gz"
